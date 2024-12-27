@@ -1,0 +1,64 @@
+.a{
+    position: relative;
+    top: -20px;
+}
+.b{
+    position: relative;
+    left: -70px;
+}
+body{
+    background-color: gray;
+}
+.d{
+    width: 290px;
+}
+.e{
+    width: 290px;
+}
+.shokh{
+    position: relative;
+    font-size: 100px;
+    left: 180px;
+    top: -97px;
+}
+.nol{
+    position: relative;
+    left: 213px;
+    top: -148px;
+}
+.man{
+    position: relative;
+    left: 30px;
+    top: -50px;
+}
+.parent{
+    padding: 100px;
+    background-color: yellow;
+    width: 400px;
+    border-radius: 40px;
+}
+.fa-brands{
+    font-size: 70px;
+    position: relative;
+    left: 100px;
+    top: -180px;
+}
+.div{
+    position: relative;
+    top: -160px;
+    width: 300px;
+}
+.nima{
+    background-color: green;
+    position: relative;
+    width: 160px;
+    height: 30px;
+    border-radius: 5px;
+    top: -140px;
+    left: 30px;
+}
+.div1{
+    position: relative;
+    left: 200px;
+    top: -270px;
+}
